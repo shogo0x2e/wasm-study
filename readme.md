@@ -1,3 +1,7 @@
 # WASM WAT
 
-hello, WASM!
+Hello, WASM!
+
+Hello, Maskil!
+Hello, Shogo!
+Hello, **Rib!**
