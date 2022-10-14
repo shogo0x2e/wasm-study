@@ -7,7 +7,7 @@
  *		Mail: shogo.kitada@outlook.jp
  *
  *	DESCRIPTION:
- *		
+ *		JS から WASM を呼び出すスクリプト
  */
 
 const fs = require('fs');
